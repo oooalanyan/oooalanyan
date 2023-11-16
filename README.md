@@ -1,7 +1,6 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F70E&random=false&width=435&lines=Hello+Guys!%5C%5Eo%5E%2F" alt="Typing SVG" /></a>
  </p>
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Hello Guys!&center=true&size=27"> </a> </h1>
 <img align="right" width="450px" alt="GIF" src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" />
 <br>
 
@@ -18,6 +17,6 @@
 ![Emys's Stats](https://github-readme-stats.vercel.app/api?username=oooalanyan&show_icons=true&theme=radical)
 
 
-⭐️ From [Emys-alb](https://github.com/oooalanyan)
+⭐️ From [oooalanyan](https://github.com/oooalanyan)
  ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/oooalanyan/count.svg" />
