@@ -1,4 +1,4 @@
-### Hello Guys!
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Hello Guys!&center=true&size=27"> </a> </h1>
 <img align="right" width="450px" alt="GIF" src="https://miro.medium.com/max/480/0*tWkX7jycteZn1qbC.gif" />
 <br>
 
@@ -12,7 +12,8 @@
 <code><img height="30" src="https://docs.python.org/3/_static/py.svg"></code>
 <code><img height="30" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg"></code>
 
-![Emys's Stats](https://github-readme-stats.vercel.app/api?username=oooalanyan&show_icons=true&theme=radical)<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oooalanyan&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+![Emys's Stats](https://github-readme-stats.vercel.app/api?username=oooalanyan&show_icons=true&theme=radical)
+
 
 ⭐️ From [Emys-alb](https://github.com/oooalanyan)
  ### Profile Views :<br>
